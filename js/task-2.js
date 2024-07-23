@@ -3,6 +3,7 @@ function makeArray(firstArray, secondArray, maxLength ) {
     if (combArray.length > maxLength) {
         combArray = combArray.slice(0, maxLength);
     }
+    
     return combArray;
 }
 

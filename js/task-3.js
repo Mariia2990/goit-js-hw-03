@@ -5,6 +5,7 @@ function filterArray(numbers, value) {
             filterNumbers.push(number);
         }
     }
+    
     return filterNumbers;
 }
 
